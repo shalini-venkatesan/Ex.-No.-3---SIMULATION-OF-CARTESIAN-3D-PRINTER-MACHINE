@@ -48,20 +48,122 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+### X-Axis Assembly:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/14d7d01e-afdf-47ac-8d65-e2059efaa4a7)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+Smooth Rod : 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+Smooth rods are long, cylindrical rods that are used in a variety of applications, including in 3D printers. In a 3D printer, smooth rods are typically used as part of the printer's linear motion system, which is responsible for moving the print head and print bed.
 
-## Output:
+Bearing : 
 
-### Name: 
-### Register Number:
+A Bearing is defined as a mechanical component that constrains relative movement to the desired motion within the same axis and also reduces friction between moving parts.
+
+Idler:
+
+An idler wheel usually is a round bearing pushed by a spring or a rubber bushing. The following figure shows an idler bearing/wheel fitted to a printed lever; the spring on the left causes the bearing on the right of the image to be pushed into the drive wheel (middle), gripping the filament tightly.
+
+Extruder:
+
+The 3D extruder is the part of the 3D printer that ejects material in liquid or semi-liquid form in order to deposit it in successive layers within the 3D printing volume. 
+
+Motor:
+
+Stepper motors are used to move the extruder or the build platform alone the x, y, and z axis.
+
+### Y-Axis Assembly:
+
+![Screenshot 2023-05-18 181906](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/6141181e-f364-4982-ad2d-32e2689bc849)
+
+Y-Axis Supporter :
+
+The Y axis on a printer represents movement forward and back. It is important to recognize that the X and Y axes on a 3D printer only represent the 2D movement.
+
+Horiz. & Vertical Threaded Rod :
+
+Threaded rods are commonly used in conjunction with nuts and linear bearings to create linear motion.Threaded rods used in 3D printing are typically made of metal, such as stainless steel or brass, to provide durability and strength.
+
+Smooth Rod :
+
+Smooth rods are long, cylindrical rods that are used in a variety of applications, including in 3D printers. In a 3D printer, smooth rods are typically used as part of the printer's linear motion system, which is responsible for moving the print head and print bed.
+
+Pulley :
+
+A Pulley is a mechanical component used in the motion control system of the printer. It is typically a wheel with a groove or teeth around its circumference. 
+
+Motor :
+
+Stepper motors are used to move the extruder or the build platform alone the x, y, and z axis
+
+Z-Axis Frame :
+
+In 3D printing, the Y-axis frame refers to the structural component of a 3D printer that supports and guides the movement of the print bed or build plate along the Y-axis.
+
+Y-Axis Base :
+
+The Y-axis base in 3D printing refers to the foundational component of a 3D printer that provides support and stability for the Y-axis movement.
+
+
+### Z-Axis Assembly:
+
+![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/be747c33-9850-4535-bceb-1bebf9243db7)
+
+Z-Axis Rod :
+
+In 3D printing, the Z-axis rod refers to a vertical cylindrical rod that is part of the motion system in a 3D printer. It is used to control the vertical movement of the print head or the print bed during the printing process.
+
+Z-Axis Top Cover :
+
+In 3D printing, the Z-axis top cover refers to a protective or enclosing component that is positioned at the uppermost part of the Z-axis assembly or structure in a 3D printer.
+
+Motor :
+
+Stepper motors are used to move the extruder or the build platform alone the x, y, and z axis
+
+### Complete-Axis Assembly:
+
+![Screenshot 2023-05-18 182436](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/30b37373-1236-42d1-acb2-45f13a79c2f8)
+
+Frame :
+
+In 3D printing, the frame refers to the structural framework or chassis that provides support, stability, and rigidity to the entire 3D printer. It serves as the foundation on which all other components, including the print bed, print head, motors, electronics, and motion systems, are mounted.
+
+Y-Axis assembly :
+
+the Y-axis assembly refers to the component of the printer responsible for the movement along the Y-axis. It is one of the essential parts of a typical Cartesian 3D printer, which uses three perpendicular axes (X, Y, and Z) to build objects layer by layer.
+
+Z-Axis Assembly :
+
+the Z-axis assembly refers to the component of the printer responsible for the vertical movement or height adjustment of the printhead or build platform. It is another essential part of a typical Cartesian 3D printer, along with the X-axis and Y-axis assemblies.
+
+X-Axis Assembly :
+
+In 3D printing, the X-axis assembly refers to the component of the printer responsible for the horizontal movement along the X-axis. It is one of the essential parts of a typical Cartesian 3D printer, along with the Y-axis and Z-axis assemblies.
+
+SMPS :
+
+SMPS stands for Switched Mode Power Supply, and it is an important component used in 3D printing systems, specifically in the power supply unit (PSU). The PSU is responsible for converting the input voltage (typically AC power from the mains) into the required DC voltage to power the various components of the 3D printer.
+
+LCD :
+
+LCD stands for Liquid Crystal Display. LCD technology is commonly used in resin-based 3D printers, also known as Digital Light Processing (DLP) or Masked Stereolithography (MSLA) printers.
+
+Spool Holder :
+
+A spool holder is an accessory used in 3D printing to hold the filament spool securely while it feeds the filament into the 3D printer. Filament spools typically come in different sizes and are made of plastic or other materials. They contain the filament, which is the material used for printing, such as PLA or ABS.
+
+Spool :
+
+In 3D printing, a spool refers to a cylindrical reel or roll that holds the filament material used for printing. Filament, such as PLA or ABS, is typically sold on spools as a long, thin strand wound in a tight coil.
+
+### Playing with Axis:
+
+![Screenshot 2023-05-18 182513](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/b343764b-30fb-4cae-9355-dadf304c9f6b)
+
+### Name: SHALINI VENKATESAN
+### Register Number: 212222240096
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
